@@ -1,5 +1,5 @@
 #!/bin/bash
 
 sudo rfkill block bluetooth
-echo "bluetooth disabled..."
+echo "Bluetooth disabled..."
 sleep 5s

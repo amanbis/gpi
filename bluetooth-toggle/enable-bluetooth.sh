@@ -1,5 +1,5 @@
 #!/bin/bash
 
 sudo rfkill unblock bluetooth
-echo "bluetooth enabled..."
+echo "Bluetooth enabled..."
 sleep 5s

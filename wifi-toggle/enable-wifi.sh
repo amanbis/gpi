@@ -1,5 +1,5 @@
 #!/bin/bash
 
 sudo rfkill unblock wifi
-echo "Wifi enabled..."
+echo "WiFi enabled..."
 sleep 5s
